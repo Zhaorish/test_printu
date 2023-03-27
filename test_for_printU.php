@@ -1,9 +1,9 @@
 <?php
 //#1 task
-//my code start
+//my code start comment create from VS
 function hashOrder($number) {
-   $hash = (($number * 96827451) % 10000000);
-   return sprintf('%07u', $hash);
+   $hash = (($number * 96827451) % 10000000);
+   return sprintf('%07u', $hash);
 }
 //my code end
 
